@@ -1,0 +1,4 @@
+#Wed Apr 19 23:31:20 PDT 2017
+base.0=C\:\\Users\\Anvit\\Desktop\\Android Projects\\LocationTracker\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_bed41d4caeda37732065b64ad2169d8f49578353
+renamed.0=classes.dex
+file.0=C\:\\Users\\Anvit\\Desktop\\Android Projects\\LocationTracker\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_bed41d4caeda37732065b64ad2169d8f49578353\\classes.dex

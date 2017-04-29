@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anvit\Desktop\Android Projects\LocationTracker\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Anvit\Desktop\Android Projects\LocationTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_41e164ab7dde3c0c217c3c1137d90e937d05b5e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anvit\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Anvit\Desktop\Android Projects\LocationTracker\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_bed41d4caeda37732065b64ad2169d8f49578353.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anvit\Desktop\Android Projects\LocationTracker\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b72ddf36efdcb5e69fe86d71be206841629c169a">
+        <dex dex="C:\Users\Anvit\Desktop\Android Projects\LocationTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_69abe923a40d22bad1afae9cb71b5a390ad158c6\classes.dex" />
+    </item>
+
+</items>

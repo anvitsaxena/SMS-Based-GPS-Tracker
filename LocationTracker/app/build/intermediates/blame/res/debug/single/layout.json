@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Anvit\\Desktop\\Android Projects\\LocationTracker\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\Anvit\\Desktop\\Android Projects\\LocationTracker\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anvit\\Desktop\\Android Projects\\LocationTracker\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Anvit\\Desktop\\Android Projects\\LocationTracker\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anvit\\Desktop\\Android Projects\\LocationTracker\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_set_mobile.xml",
+        "source": "C:\\Users\\Anvit\\Desktop\\Android Projects\\LocationTracker\\app\\src\\main\\res\\layout\\activity_set_mobile.xml"
+    }
+]

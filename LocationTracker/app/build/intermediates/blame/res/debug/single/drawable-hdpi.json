@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Anvit\\Desktop\\Android Projects\\LocationTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Anvit\\Desktop\\Android Projects\\LocationTracker\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Anvit\\Desktop\\Android Projects\\LocationTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "C:\\Users\\Anvit\\Desktop\\Android Projects\\LocationTracker\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Anvit\\Desktop\\Android Projects\\LocationTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn.png",
+        "source": "C:\\Users\\Anvit\\Desktop\\Android Projects\\LocationTracker\\app\\src\\main\\res\\drawable-hdpi\\btn.png"
+    }
+]
